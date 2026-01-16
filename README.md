@@ -1,0 +1,2 @@
+# imgutils-thumbnail
+Thumbnail generation
